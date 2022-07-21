@@ -1,4 +1,4 @@
 # Test
 gear
-fgeaddadadad
-แก้ไช
+fgeaddada
+แก้ไข้ 2
